@@ -1,0 +1,56 @@
+/* src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-brand-dark text-brand-light;
+}
+
+/* Custom scrollbar for a modern look */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #111827;
+}
+::-webkit-scrollbar-thumb {
+  background: #4b5563;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f59e0b;
+}
+.blinking-cursor {
+  font-weight: 500;
+  color: #f59e0b; /* brand-accent */
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes blink {
+  from,
+  to {
+    color: transparent;
+  }
+  50% {
+    color: #f59e0b; /* brand-accent */
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

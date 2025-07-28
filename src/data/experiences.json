@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Software Engineer",
+    "company": "Kalam Labs",
+    "logo": "/logos/kalam-labs.png",
+    "location": "Lucknow, UP",
+    "date": "December 2023 - January 2025",
+    "tasks": [
+      "Architected a full-stack website using React.js, Node.js, and MongoDB, supporting 5,000+ monthly users.",
+      "Designed and enforced MongoDB schemas, optimizing database performance by 30%.",
+      "Established CI/CD pipelines with GitHub Actions, reducing release cycle time by 40%."
+    ]
+  },
+  {
+    "role": "Front-End Intern",
+    "company": "Salesqueen Software Solutions",
+    "logo": "/logos/salesqueen.png",
+    "location": "Chennai, TN",
+    "date": "June 2023 - July 2023",
+    "tasks": [
+      "Refactored legacy jQuery components to React, decreasing the codebase by 25% and improving load times by 15%.",
+      "Implemented reusable React components and managed state with Hooks, accelerating feature delivery by 30%.",
+      "Wrote unit tests with Jest, achieving 80% front-end test coverage and reducing UI bugs."
+    ]
+  }
+]

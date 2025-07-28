@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Live Collaborative To-Do List",
+    "description": "A full-stack, real-time, collaborative to-do list application built with the MERN stack (MongoDB, Express, React, Node.js) and TypeScript. Features live updates via WebSockets and user authentication.",
+    "images": [
+      "/projects/livetodo/livetodo-1.png",
+      "/projects/livetodo/livetodo-2.png"
+    ],
+    "tech": ["React", "MongoDB", "Express", "Node.js", "WebSockets", "Vercel"],
+    "github": "https://github.com/iasjad/Todo_live",
+    "link": "https://todo-live.vercel.app/"
+  },
+  {
+    "title": "PassMan - Password Manager",
+    "description": "A secure, client-side encrypted password manager built with React and Supabase, offering a modern UI and full CRUD functionality.",
+    "images": [
+      "/projects/passman/passman-1.png",
+      "/projects/passman/passman-2.png"
+    ],
+    "tech": ["React", "Supabase", "Tailwind CSS", "JavaScript", "Vercel"],
+    "github": "https://github.com/iasjad/pass-man",
+    "link": "https://pass-man-eight.vercel.app/"
+  },
+  {
+    "title": "NES Emulator from Scratch",
+    "description": "A cycle-accurate NES emulator built in C++ from the ground up, capable of playing classic titles like Super Mario Bros.",
+    "images": [
+      "/projects/nes/nes-1.png",
+      "/projects/nes/nes-2.png",
+      "/projects/nes/nes-3.png"
+    ],
+    "tech": ["C++", "Systems Programming", "OOP", "NES Emulator", "Low Level"],
+    "github": "https://github.com/iasjad/",
+    "link": ""
+  },
+  {
+    "title": "Anime Tracker Flutter App",
+    "description": "A cross-platform app using MyAnimeList API that allows users to browse, track, and manage anime watchlists with offline access.",
+    "images": [
+      "/projects/anime/anime-1.png",
+      "/projects/anime/anime-2.png",
+      "/projects/anime/anime-3.png"
+    ],
+    "tech": ["Flutter", "Dart", "REST API", "Provider"],
+    "github": "https://github.com/iasjad/",
+    "link": ""
+  },
+  {
+    "title": "Fixed Wing Drone",
+    "description": "A fixed-wing drone powered by ESP12 and MPU6050, featuring built-in stabilization for smooth flight. Controlled wirelessly via WiFi for seamless operation.",
+    "images": [
+      "/projects/fixedwing/fixedwing-1.gif",
+      "/projects/fixedwing/fixedwing-2.png"
+    ],
+    "tech": [
+      "PCB Design",
+      "RTOS",
+      "Embedded C",
+      "ESP12",
+      "IMU",
+      "MPU6050",
+      "SPI",
+      "UART",
+      "GPIO",
+      "PWM",
+      "Flutter",
+      "Dart"
+    ],
+    "github": "",
+    "link": "https://kalamlabs.in/"
+  },
+  {
+    "title": "Quadcopter Drone",
+    "description": "A compact quadcopter drone powered by ESP32, featuring MPU6050 and BMP280 sensors, multiple flight modes, and WiFi control. Includes USB-C charging and a built-in BMS for enhanced safety.",
+    "images": [
+      "/projects/quadcopter/quadcopter-1.gif",
+      "/projects/quadcopter/quadcopter-2.png"
+    ],
+    "tech": [
+      "PCB Design",
+      "RTOS",
+      "Embedded C",
+      "ESP32",
+      "BMS",
+      "IMU",
+      "MPU6050",
+      "BMP280",
+      "SPI",
+      "UART",
+      "GPIO",
+      "ADC",
+      "DAC",
+      "PWM",
+      "ESP-IDF",
+      "Flutter",
+      "Dart"
+    ],
+    "github": "",
+    "link": "https://kalamlabs.in/"
+  },
+  {
+    "title": "A9G GPS to SMS MicroPython Script",
+    "description": "A9G GPS to SMS is a MicroPython script for the Ai-Thinker A9G module that sends GPS coordinates via SMS every minute using a Google Maps link for easy tracking.",
+    "tech": ["GPS", "MicroPython", "Embedded Systems", "Ai-Thinker A9G"],
+    "github": "https://github.com/iasjad/GPS_GSM_MP",
+    "link": ""
+  },
+  {
+    "title": "Embedded C Firmware for Satellite Camera Background Subtraction",
+    "description": "a median-based background subtraction algorithm optimized for AMD-Xilinx FPGA/SoC platforms, designed to process high-resolution satellite imagery in real-time for foreground object detection.",
+    "tech": ["Embedded C", "FPGA", "SoC", "AMD-Xilinx"],
+    "github": "https://github.com/iasjad/satellite-firmware-bgsub",
+    "link": ""
+  }
+]
