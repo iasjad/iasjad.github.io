@@ -30,7 +30,7 @@
       "/projects/nes/nes-3.png"
     ],
     "tech": ["C++", "Systems Programming", "OOP", "NES Emulator", "Low Level"],
-    "github": "https://github.com/iasjad/",
+    "github": "https://github.com/iasjad/nes_emulator",
     "link": ""
   },
   {
@@ -42,7 +42,7 @@
       "/projects/anime/anime-3.png"
     ],
     "tech": ["Flutter", "Dart", "REST API", "Provider"],
-    "github": "https://github.com/iasjad/",
+    "github": "https://github.com/iasjad/Anime-Tracker",
     "link": ""
   },
   {
